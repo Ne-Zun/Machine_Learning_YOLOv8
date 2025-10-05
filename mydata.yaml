@@ -1,0 +1,21 @@
+
+path: F:/MACHINE_TRAFFIC/mydataset
+train: images/train
+val: images/val
+test:
+
+# Classes
+names:
+  0:
+  1: train
+  2: bus
+  3: car
+  4: container
+  5: motorbike
+  6: airplane
+  7: truck
+  8: van
+  9: bicycle
+
+
+
